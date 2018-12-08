@@ -1,2 +1,0 @@
-# wpstream.com
-wpstream.com
